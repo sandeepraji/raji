@@ -1,2 +1,0 @@
-# raji
-Data Scientist
